@@ -17,7 +17,7 @@ public class CrudArticulos {
         // Variable para controlar la opción del menú
         int opcion = 0;
 
-        // ==========================
+        // ========================
         // Bucle principal del menú
         // ==========================
         while (opcion != 6) { // se repite mientras no elija salir
